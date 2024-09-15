@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Your Company Name - Leading Government Contractor in IT Management and Consulting">
+    <title>Your Company Name | Government Contracting Solutions</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="Your Company Logo"></a>
+            <ul class="navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="capabilities.html">Capabilities</a></li>
+                <li><a href="past-performance.html">Past Performance</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Your Company Name</h1>
+            <p>Your Trusted Partner in Federal Government Contracting</p>
+            <a href="contact.html" class="btn">Get in Touch</a>
+        </div>
+    </section>
+
+    <section class="overview">
+        <div class="container">
+            <h2>Our Capabilities</h2>
+            <div class="services">
+                <div class="service">
+                    <h3>IT Management</h3>
+                    <p>Expert management of IT systems to ensure optimal performance and reliability.</p>
+                </div>
+                <div class="service">
+                    <h3>Cloud Migration</h3>
+                    <p>Smooth transition of legacy systems to cloud-based solutions for improved scalability and efficiency.</p>
+                </div>
+                <div class="service">
+                    <h3>Predictive Analysis</h3>
+                    <p>Utilize advanced analytics to forecast trends and make informed decisions.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="testimonials">
+        <div class="container">
+            <h2>What Our Clients Say</h2>
+            <div class="testimonial">
+                <p>"Your Company Name has been instrumental in transforming our IT infrastructure. Their expertise is unmatched!"</p>
+                <cite>- John Doe, Federal Agency</cite>
+            </div>
+            <div class="testimonial">
+                <p>"Exceptional service and outstanding results. Highly recommend for any government contracting needs."</p>
+                <cite>- Jane Smith, Government Department</cite>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 Your Company Name. All rights reserved.</p>
+            <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+        </div>
+    </footer>
+</body>
+</html>
